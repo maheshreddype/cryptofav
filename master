@@ -1,0 +1,269 @@
+<head><title>Coin Tracker v2</title></head>
+<body><p> </p></body>
+<h1 style="font-family:verdana;font-size:140%;">Coin Tracker v2</h1>
+<meta http-equiv="refresh" content="300" > 
+<p>
+<a href="http://MicroCapCrypto.com">Micro Cap Crypto Review Site</a>
+ <p>
+ <a href="https://coinmarketcap.com/widget/">Coin Market Cap Widget Page</a>
+  <p>
+  <a href="https://github.com/MicroCapCrypto/MicroCapCrypto/blob/master/index.html">Github</a>
+<p>
+<table style="width:100%">
+
+<tr>
+ <td>
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="bitcoin" data-base="USD" data-secondary=""></div>
+ </td>
+
+ <td> 
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="ethereum" data-base="USD"  data-secondary="BTC"></div>
+ </td>
+
+ <td> 
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="ripple" data-base="USD"  data-secondary="BTC"></div>
+ </td>
+</tr>
+
+<tr>
+ <td> 
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="neo" data-base="USD"  data-secondary="BTC"></div>
+ </td>
+
+ <td> 
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="gas" data-base="USD"  data-secondary="BTC"></div>
+ </td>
+
+ <td>   
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="monero" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+</tr>
+
+<tr>
+ <td> 	
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="ark" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+
+ <td> 	
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="steem" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+
+ <td> 
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="factom" data-base="USD"  data-secondary="BTC"></div>
+ </td>
+</tr>
+
+<tr>
+ <td>   
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="storj" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+
+ <td> 	
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="ethereum-classic" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+
+ <td> 	
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="omisego" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+</tr>
+
+<tr>
+ <td> 
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="zencash" data-base="USD"  data-secondary="BTC"></div>
+ </td>
+
+ <td>   
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="waves" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+
+ <td> 	
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="stratis" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+</tr>
+
+<tr>
+ <td> 	
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="iconomi" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+
+ <td> 
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="nem" data-base="USD"  data-secondary="BTC"></div>
+ </td>
+
+ <td>   
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="dash" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+</tr>
+
+<tr>
+ <td> 	
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="wings" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+
+ <td> 	
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="lisk" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+
+ <td> 
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="basic-attention-token" data-base="USD"  data-secondary="BTC"></div>
+ </td>
+</tr>
+
+<tr>
+ <td>   
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="bitshares" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+
+ <td> 	
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="syscoin" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+
+ <td> 	
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="zcoin" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+</tr>
+
+<tr>
+ <td>   
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="golem-network-tokens" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+
+ <td> 	
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="aragon" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+
+ <td> 	
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="red-pulse" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+</tr>
+
+<tr>
+ <td>   
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="triggers" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+
+ <td> 	
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="decent" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+
+ <td> 	
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="chainlink" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+</tr>
+
+<tr>
+ <td>   
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="florincoin" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+
+ <td> 	
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="cardano" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+
+ <td> 	
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="ethereum-classic" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+</tr>
+
+<tr>
+ <td>   
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="dash" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+
+ <td> 	
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="litecoin" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+
+ <td> 	
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="enigma-project" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+</tr>
+ 
+<tr>
+ <td>   
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="bitcoin-cash" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+  
+  <td>   
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="kyber-network" data-base="USD"  data-secondary="BTC"></div>
+  </td>
+  
+  <td>   
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="iota" data-base="USD"  data-secondary="BTC"></div>
+  </td>
+
+ <tr>
+ <td>   
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="tenx" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+  
+  <td>   
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="stellar" data-base="USD"  data-secondary="BTC"></div>
+  </td>
+  
+  <td>   
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="request-network" data-base="USD"  data-secondary="BTC"></div>
+  </td>
+
+<tr>
+ <td>   
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="power-ledger" data-base="USD"  data-secondary="BTC"></div>
+ </td> 
+  
+  <td>   
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="Qtum" data-base="USD"  data-secondary="BTC"></div>
+  </td>
+  
+  <td>   
+  <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+  <div class="coinmarketcap-currency-widget" data-currency="syscoin" data-base="USD"  data-secondary="BTC"></div>
+  </td>
+
+</tr>
+ 
+
+</table> 
